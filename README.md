@@ -20,13 +20,22 @@ An example `.xlsx` file containing **Helicobacter pylori** protein sequences fro
 
 ## 🛠️ Requirements
 
-* R (version ≥ 4.0)
-* Shiny
-* readxl
-* DT
-* Biostrings
-* pwalign
-* bslib
+This app requires:
+
+- **R** version ≥ 4.0 (developed and tested on 4.4.0)
+
+### 📦 R packages
+
+The following packages are required (tested versions shown):
+
+| Package     | Version  |
+|-------------|----------|
+| shiny       | 1.10.0   |
+| readxl      | 1.4.5    |
+| DT          | 0.33     |
+| Biostrings  | 2.72.1   |
+| pwalign     | 1.0.0    |
+| bslib       | 0.9.0    |
 
 ## 💻 Installation & Usage
 
