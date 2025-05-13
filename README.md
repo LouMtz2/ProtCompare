@@ -40,9 +40,15 @@ runApp("app.R")
 
 ## 📖 Citation
 
-If you use **ProtCompare**, please cite:
+If you use **ProtCompare** in your research or project, please cite it as follows:
 
-> Lourdes Martínez Martínez. (2025). ProtCompare (Version 1.0) \[Software]. Available from [https://github.com/LouMtz2/ProtCompare](https://github.com/LouMtz2/ProtCompare)
+####  - Plain Text
+Lourdes Martínez Martínez (2025). *ProtCompare (Version 1.0)* [Shiny App]. GitHub: https://github.com/LouMtz2/ProtCompare. MIT License.
+
+####  - APA
+Martínez Martínez, L. (2025). ProtCompare (Version 1.0) [Shiny app]. Retrieved from https://github.com/LouMtz2/ProtCompare
+
+👉 You can also find a machine-readable citation in [`CITATION.cff`](./CITATION.cff) 
 
 ## 📄 License
 
