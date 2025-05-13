@@ -1,0 +1,16 @@
+Package: ProtCompare
+Type: ShinyApp
+Title: 'Protein Sequence Similarity Comparator'
+Version: 1.0
+Author: Lourdes Martínez Martínez
+Maintainer: loumtezmtez@gmail.com
+Description: A Shiny app to compare protein sequences using BLOSUM62.
+Depends:
+    R (>= 4.0),
+    shiny,
+    readxl,
+    DT,
+    Biostrings,
+    pwalign,
+    bslib
+License: MIT + file LICENSE
