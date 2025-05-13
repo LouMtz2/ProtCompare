@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ProtCompare"
+version: "1.0"
+date-released: 2025-05-13
+authors:
+  - family-names: Martínez Martínez
+    given-names: Lourdes
+    orcid: "https://orcid.org/0000-0002-1352-0553"
+abstract: "ProtCompare is a Shiny app that compares a query protein sequence against a target list using local alignment (BLOSUM62), and estimates empirical p-values from random alignments."
+repository-code: "https://github.com/LouMtz2/ProtCompare"
+license: "MIT"
