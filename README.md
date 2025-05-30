@@ -66,6 +66,6 @@ ProtCompare is licensed under the MIT License with Citation Requirement. See the
 ## 📧 Contact
 
 * **Developer:** Lourdes Martínez Martínez
-* **Email:** [loumtezmtez@gmail.com](mailto:loumtezmtez@gmail.com)
+* Contact <a href="mailto:&#108;&#111;&#117;&#109;&#116;&#101;&#122;&#109;&#116;&#101;&#122;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">Email</a>
 
 
